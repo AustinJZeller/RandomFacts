@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fun Facts</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="fact_ants">Ants stretch when they wake up in the morning.</string>
+    <string name="fact_ostriches">Ostriches can run faster than horses.</string>
+    <string name="button_fact">Show another fun fact</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
